@@ -1,0 +1,19 @@
+# VPN configs carry your personal platform credentials
+*.ovpn
+
+# Large or sensitive lab artifacts (link or describe them instead)
+*.pcap
+*.pcapng
+*.zip
+*.7z
+*.ova
+*.vdi
+
+# Secrets and wordlists
+*.kdbx
+.env
+rockyou.txt
+
+# Editor / OS
+.vscode/
+.DS_Store
