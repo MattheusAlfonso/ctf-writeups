@@ -12,7 +12,7 @@
 
 ## 👋 Sobre
 
-Sou o Mattheus, analista de cibersegurança júnior (SOC N1 / AppSec) do Brasil. Neste repositório eu documento os CTFs e labs que resolvo.
+Sou o Matheus, analista de cibersegurança (SOC / AppSec) do Brasil. Neste repositório eu documento os CTFs e labs que resolvo.
 
 A maioria dos writeups tem uma seção curta de **"Visão Blue Team"**. Depois de explorar algo, eu registro como aquilo aparece do lado de quem defende: logs, tráfego de rede e como um analista de SOC poderia detectar.
 

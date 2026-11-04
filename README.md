@@ -15,7 +15,7 @@
 
 ## 👋 About
 
-I'm Mattheus, a junior cybersecurity analyst (SOC Tier 1 / AppSec) from Brazil. This repository is where I document the CTFs and labs I solve.
+I'm Matheus, a cybersecurity analyst (SOC / AppSec) from Brazil. This repository is where I document the CTFs and labs I solve.
 
 Most writeups have a short **"Blue Team view"** section. After exploiting something, I write down what it would look like from the defender's side: logs, network traffic, and how a SOC analyst could detect it.
 
